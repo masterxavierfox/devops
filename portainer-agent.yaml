@@ -19,4 +19,4 @@ services:
 
 networks:
   portainer_agent:
-driver: overlay
+    driver: overlay
